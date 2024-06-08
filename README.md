@@ -79,14 +79,3 @@
 </div>
 
 ###
-
-<h2 align="left">İstatistiklerim...</h2>
-
-###
-
-<div align="center" style="display:flex; justify-content:space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafakarasu&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=%C4%B0statiskler" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakarasu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=%C4%B0statistikler" height="170" alt="languages graph"  />
-</div>
-
-###
